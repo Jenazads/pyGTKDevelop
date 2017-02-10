@@ -111,4 +111,4 @@ No errors found.
 
 This tutorial was taken of [jhBuild](https://wiki.gnome.org/Projects/Jhbuild/OnUbuntu)
 
-## Example
+## Examples
