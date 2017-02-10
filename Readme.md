@@ -1,6 +1,5 @@
 # PyGTK
 
-First Interaction with pyGTK
 [![](https://scontent.flim1-1.fna.fbcdn.net/v/t34.0-12/16652808_10211757466843218_1547922060_n.png?oh=e778929c30e207b010be7e914fdd23d9&oe=589F928A)](http://www.pygtk.org/)
 ## Installing jhBuild
 
