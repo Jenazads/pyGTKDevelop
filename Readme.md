@@ -39,7 +39,7 @@ Manually, we add PATH to ~/.bashrc
 
 ### Change config file
 
-Our directory is ~/checkout/gnome2/jhbuild$
+Our directory is ~/checkout/gnome2/jhbuild
 
     cd examples/
     cp sample.jhbuildrc ~/.jhbuildrc
@@ -112,3 +112,8 @@ No errors found.
 This tutorial was taken of [jhBuild](https://wiki.gnome.org/Projects/Jhbuild/OnUbuntu)
 
 ## Examples
+
+Executing [progress bar example](https://python-gtk-3-tutorial.readthedocs.io/en/latest/progressbar.html) grom python-gtk-3
+
+[![](https://scontent.flim5-1.fna.fbcdn.net/v/t34.0-12/16735965_10211773320519550_957430127_n.png?oh=756b32cfc4d5960bc48a3ee97d6a354e&oe=58A20B45)]()
+
