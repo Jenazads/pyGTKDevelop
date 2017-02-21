@@ -1,6 +1,6 @@
 # PyGTK
 
-[![](https://drive.google.com/open?id=0B1noG0XVd5u7WEZ2Y0N5d3ZBZ0U)](http://www.pygtk.org/)
+[![](https://scontent.flim1-1.fna.fbcdn.net/v/t1.0-9/16832369_10211871203686568_4811421283326694222_n.jpg?oh=ab74419978dd1a7eb9a32988ab375fb9&oe=592F742F)](http://www.pygtk.org/)
 
 ## Installing jhBuild
 
@@ -115,5 +115,5 @@ This tutorial was taken of [jhBuild](https://wiki.gnome.org/Projects/Jhbuild/OnU
 
 Executing [progress bar example](https://python-gtk-3-tutorial.readthedocs.io/en/latest/progressbar.html) grom python-gtk-3
 
-[![](https://scontent.flim5-1.fna.fbcdn.net/v/t34.0-12/16735965_10211773320519550_957430127_n.png?oh=756b32cfc4d5960bc48a3ee97d6a354e&oe=58A20B45)]()
+[![](https://scontent.flim1-1.fna.fbcdn.net/v/t1.0-9/16681641_10211871203806571_6052283727321725717_n.jpg?oh=6ce085a4fac9645bad64003ba29db945&oe=593DACC9)]()
 
