@@ -6,3 +6,6 @@ Components:
     sudo apt-get install python-cairo
     sudo apt-get install python-cairocffi
 
+Execute:
+
+    python snakeGTKMain.py
