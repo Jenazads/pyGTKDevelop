@@ -117,13 +117,13 @@ This tutorial was taken of [jhBuild](https://wiki.gnome.org/Projects/Jhbuild/OnU
 
 Executing example [progress bar example](https://python-gtk-3-tutorial.readthedocs.io/en/latest/progressbar.html) from python-gtk-3 to verify the correct installation
 
-[![](/img/progressbar_example.jpg)]()
+![](/img/progressbar_example.jpg)]()
 
 ### Snake GTK
 
 Is a simple classic game Snake, developed en pyGTK.
 
-[![](/img/snakeGTK.jpg)()
+![](/img/snakeGTK.jpg)()
 
 
 
