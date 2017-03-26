@@ -1,6 +1,6 @@
 ## SnakeGTK
 
-[![](./../img/snakeGTKGame.jpg)]()
+![](./../img/snakeGTKGame.jpg)
 
 Components:
 
